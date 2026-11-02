@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Little Feelings",
+    "slug": "little-feelings",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#FAF5FF",
+    "android": {
+      "package": "com.littlefeelings.app",
+      "versionCode": 1
+    },
+    "plugins": []
+  }
+}
